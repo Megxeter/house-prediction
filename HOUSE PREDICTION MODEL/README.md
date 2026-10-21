@@ -223,7 +223,7 @@ The repository also includes:
 
 # 👨‍💻 Author
 
-**Uplakshya Tiwari**
+**Mohd Yasir Siddique**
 
 B.Tech Computer Science Engineering
 
